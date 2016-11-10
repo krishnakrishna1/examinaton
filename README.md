@@ -1,1 +1,1 @@
-# examinaton
+# examination
